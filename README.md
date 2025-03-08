@@ -5,8 +5,6 @@ This repo contains code to train and evaluate a model to produce the forecasted 
 
 ## Organisation of the repo
 
-utsav p[al here]
-
 ```
 .
 ├── exp_reports         # Experiment reports - markdown notes about experiments we have made
